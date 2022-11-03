@@ -16,4 +16,4 @@ listed above
 ![screenshot from my ecommerce back end](./Assets/Screen%20Shot%202022-10-18%20at%203.32.32%20PM.png)
 
 
-Link to walkthrough video: https://watch.screencastify.com/v/AnRAudq0vtNkpgx5cuAs
+Link to walkthrough video: https://watch.screencastify.com/v/fBYcbMFWY00qV05cvrMG
